@@ -2,9 +2,9 @@ D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\bin\Debug\ITMO
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\bin\Debug\ITMO.ADO.NET.DBConnection.exe
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\bin\Debug\ITMO.ADO.NET.DBConnection.pdb
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.csprojAssemblyReference.cache
-D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.Form1.resources
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.Properties.Resources.resources
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.csproj.GenerateResource.cache
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.csproj.CoreCompileInputs.cache
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.exe
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DBConnection\obj\Debug\ITMO.ADO.NET.DBConnection.s.resources

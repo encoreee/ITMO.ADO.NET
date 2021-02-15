@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\bin\Debug\ITMO.ADO.NET.CreatingDataTable.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\bin\Debug\ITMO.ADO.NET.CreatingDataTable.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\bin\Debug\ITMO.ADO.NET.CreatingDataTable.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.CreatingDataTableForm.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.pdb

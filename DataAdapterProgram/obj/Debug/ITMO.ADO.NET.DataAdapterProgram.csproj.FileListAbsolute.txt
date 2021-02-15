@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.DataAdapterProgramForm.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

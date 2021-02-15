@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\bin\Debug\ITMO.ADO.NET.DataViewExample.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\bin\Debug\ITMO.ADO.NET.DataViewExample.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\bin\Debug\ITMO.ADO.NET.DataViewExample.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.pdb

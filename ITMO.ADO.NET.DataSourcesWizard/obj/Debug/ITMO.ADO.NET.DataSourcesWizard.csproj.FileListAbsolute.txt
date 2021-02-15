@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\bin\Debug\ITMO.ADO.NET.DataSourcesWizard.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\bin\Debug\ITMO.ADO.NET.DataSourcesWizard.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\bin\Debug\ITMO.ADO.NET.DataSourcesWizard.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.pdb

@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\bin\Debug\ITMO.ADO.NET.DataGridViewExample.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\bin\Debug\ITMO.ADO.NET.DataGridViewExample.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\bin\Debug\ITMO.ADO.NET.DataGridViewExample.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.pdb

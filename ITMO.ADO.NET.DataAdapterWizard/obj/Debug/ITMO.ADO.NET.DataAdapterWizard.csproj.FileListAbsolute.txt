@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\bin\Debug\ITMO.ADO.NET.DataAdapterWizard.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\bin\Debug\ITMO.ADO.NET.DataAdapterWizard.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\bin\Debug\ITMO.ADO.NET.DataAdapterWizard.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataAdapterWizard\obj\Debug\ITMO.ADO.NET.DataAdapterWizard.pdb

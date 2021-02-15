@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\bin\Debug\ITMO.ADO.NET.DataBindingSimple.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\bin\Debug\ITMO.ADO.NET.DataBindingSimple.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\bin\Debug\ITMO.ADO.NET.DataBindingSimple.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.DataBindingSimple\obj\Debug\ITMO.ADO.NET.DataBindingSimple.Form1.resources

@@ -1,0 +1,9 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\obj\Debug\DatasetDesigner.DatasetDesignerForm.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\DatasetDesigner\obj\Debug\DatasetDesigner.pdb

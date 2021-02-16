@@ -25,6 +25,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.DataBindingCom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.DataGridViewExample", "ITMO.ADO.NET.DataGridViewExample\ITMO.ADO.NET.DataGridViewExample.csproj", "{FDD5CF87-198B-4FD0-9CDB-795E6BB88EEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.SavingDataSetXml", "ITMO.ADO.NET.SavingDataSetXml\ITMO.ADO.NET.SavingDataSetXml.csproj", "{F7A1BD56-1048-4314-BE66-B210196BB140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.LoadDataSetXml", "ITMO.ADO.NET.LoadDataSetXml\ITMO.ADO.NET.LoadDataSetXml.csproj", "{DE611494-C7BC-4C94-A524-0890935C5ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Linq_Student", "ITMO.ADO.NET.Linq_Student\ITMO.ADO.NET.Linq_Student.csproj", "{3336F240-D80C-491F-85CC-6DCC40786AF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +81,18 @@ Global
 		{FDD5CF87-198B-4FD0-9CDB-795E6BB88EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDD5CF87-198B-4FD0-9CDB-795E6BB88EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDD5CF87-198B-4FD0-9CDB-795E6BB88EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A1BD56-1048-4314-BE66-B210196BB140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A1BD56-1048-4314-BE66-B210196BB140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A1BD56-1048-4314-BE66-B210196BB140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A1BD56-1048-4314-BE66-B210196BB140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE611494-C7BC-4C94-A524-0890935C5ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE611494-C7BC-4C94-A524-0890935C5ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE611494-C7BC-4C94-A524-0890935C5ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE611494-C7BC-4C94-A524-0890935C5ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3336F240-D80C-491F-85CC-6DCC40786AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3336F240-D80C-491F-85CC-6DCC40786AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3336F240-D80C-491F-85CC-6DCC40786AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3336F240-D80C-491F-85CC-6DCC40786AF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\bin\Debug\ITMO.ADO.NET.LoadDataSetXml.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\bin\Debug\ITMO.ADO.NET.LoadDataSetXml.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\bin\Debug\ITMO.ADO.NET.LoadDataSetXml.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.pdb

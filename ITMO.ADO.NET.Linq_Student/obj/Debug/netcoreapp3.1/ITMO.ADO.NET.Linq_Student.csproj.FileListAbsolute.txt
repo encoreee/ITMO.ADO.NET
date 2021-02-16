@@ -1,0 +1,13 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\bin\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\bin\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.deps.json
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\bin\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.runtimeconfig.json
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\bin\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.runtimeconfig.dev.json
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\bin\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\bin\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.AssemblyInfoInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.AssemblyInfo.cs
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.Linq_Student\obj\Debug\netcoreapp3.1\ITMO.ADO.NET.Linq_Student.genruntimeconfig.cache

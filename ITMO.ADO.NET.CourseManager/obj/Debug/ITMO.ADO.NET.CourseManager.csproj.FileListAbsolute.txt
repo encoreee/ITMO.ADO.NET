@@ -1,0 +1,16 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\ITMO.ADO.NET.CourseManager.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\ITMO.ADO.NET.CourseManager.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\ITMO.ADO.NET.CourseManager.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.CourseViewer.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\EntityFramework.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\EntityFramework.xml
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.csproj.CopyComplete

@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\bin\Debug\ITMO.ADO.NET.LINQsqlSproc.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\bin\Debug\ITMO.ADO.NET.LINQsqlSproc.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\bin\Debug\ITMO.ADO.NET.LINQsqlSproc.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.pdb

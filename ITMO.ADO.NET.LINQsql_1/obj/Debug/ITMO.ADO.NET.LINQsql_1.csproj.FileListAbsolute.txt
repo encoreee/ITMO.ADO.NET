@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\bin\Debug\ITMO.ADO.NET.LINQsql_1.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\bin\Debug\ITMO.ADO.NET.LINQsql_1.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\bin\Debug\ITMO.ADO.NET.LINQsql_1.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.pdb

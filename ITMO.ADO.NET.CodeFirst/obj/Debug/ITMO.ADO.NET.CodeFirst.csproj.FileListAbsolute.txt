@@ -1,0 +1,12 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\ITMO.ADO.NET.CodeFirst.dll.config
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\ITMO.ADO.NET.CodeFirst.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\ITMO.ADO.NET.CodeFirst.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\EntityFramework.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\EntityFramework.xml
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\obj\Debug\ITMO.ADO.NET.CodeFirst.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\obj\Debug\ITMO.ADO.NET.CodeFirst.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\obj\Debug\ITMO.ADO.NET.CodeFirst.csproj.CopyComplete
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\obj\Debug\ITMO.ADO.NET.CodeFirst.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CodeFirst\obj\Debug\ITMO.ADO.NET.CodeFirst.pdb

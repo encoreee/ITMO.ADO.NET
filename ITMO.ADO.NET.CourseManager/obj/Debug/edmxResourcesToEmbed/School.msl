@@ -22,15 +22,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="OfficeAssignments">
-      <EntityTypeMapping TypeName="SchoolModel.OfficeAssignment">
-        <MappingFragment StoreEntitySet="OfficeAssignment">
-          <ScalarProperty Name="InstructorID" ColumnName="InstructorID" />
-          <ScalarProperty Name="Location" ColumnName="Location" />
-          <ScalarProperty Name="Timestamp" ColumnName="Timestamp" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="OnlineCourses">
       <EntityTypeMapping TypeName="SchoolModel.OnlineCourse">
         <MappingFragment StoreEntitySet="OnlineCourse">
@@ -50,13 +41,24 @@
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="People">
-      <EntityTypeMapping TypeName="SchoolModel.Person">
+      <EntityTypeMapping TypeName="IsTypeOf(SchoolModel.Person)">
         <MappingFragment StoreEntitySet="Person">
           <ScalarProperty Name="PersonID" ColumnName="PersonID" />
-          <ScalarProperty Name="LastName" ColumnName="LastName" />
-          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
-          <ScalarProperty Name="HireDate" ColumnName="HireDate" />
           <ScalarProperty Name="EnrollmentDate" ColumnName="EnrollmentDate" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(SchoolModel.Instructor)">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="PersonID" ColumnName="PersonID" />
+          <ScalarProperty Name="HireDate" ColumnName="HireDate" />
+          <Condition ColumnName="HireDate" IsNull="false" />
+        </MappingFragment>
+        <MappingFragment StoreEntitySet="OfficeAssignment">
+          <ScalarProperty Name="PersonID" ColumnName="InstructorID" />
+          <ScalarProperty Name="Timestamp" ColumnName="Timestamp" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

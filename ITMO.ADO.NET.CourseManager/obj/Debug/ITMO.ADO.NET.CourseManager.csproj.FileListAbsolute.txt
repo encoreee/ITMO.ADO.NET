@@ -14,3 +14,5 @@ D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\Ent
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\EntityFramework.SqlServer.xml
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\ru\EntityFramework.resources.dll
 D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.csproj.CopyComplete
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Repository\ITMO.ADO.NET.DBConnection\ITMO.ADO.NET.CourseManager\obj\Debug\ITMO.ADO.NET.CourseManager.OfficeAssignment.resources

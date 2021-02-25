@@ -1,0 +1,10 @@
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\bin\Debug\MyWorkApp.exe.config
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\bin\Debug\MyWorkApp.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\bin\Debug\MyWorkApp.pdb
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.csprojAssemblyReference.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.Form1.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.Properties.Resources.resources
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.csproj.GenerateResource.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.csproj.CoreCompileInputs.cache
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.exe
+D:\Repository\ITMO.ADO.NET.DBConnection\MyWorkApp\obj\Debug\MyWorkApp.pdb

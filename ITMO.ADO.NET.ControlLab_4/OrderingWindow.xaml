@@ -1,0 +1,88 @@
+﻿<Window x:Class="ITMO.ADO.NET.ControlLab_4.OrderingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.ADO.NET.ControlLab_4"
+        mc:Ignorable="d"
+        Title="Ordering" Height="450" Width="450">
+    <Grid Margin="0">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="OrderID" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="0"/>
+        <Label Content="CustomerID" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="1"/>
+        <Label Content="EmployeeID" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="2"/>
+        <Label Content="OrderDate" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="3"/>
+        <Label Content="RequiredDate" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="4"/>
+        <Label Content="ShippedDate" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="5"/>
+        <Label Content="ShipVia" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="6"/>
+        <Label Content="Freight" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="7"/>
+        <Label Content="ShipName" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="8"/>
+        <Label Content="ShipAddress" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="9"/>
+        <Label Content="ShipCity" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="10"/>
+        <Label Content="ShipRegion" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Bottom" Grid.Row="11"/>
+        <Label Content="ShipPostalCode" HorizontalAlignment="Center" Margin="1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="12"/>
+        <Label Content="ShipCountry" HorizontalAlignment="Center" Margin="28,1,29,1" Grid.RowSpan="1" VerticalAlignment="Center" Grid.Row="13"/>
+
+        <TextBox x:Name="OrderID_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1 " Grid.RowSpan="1" Grid.Row="0" TextWrapping="Wrap" />
+        <TextBox x:Name="CustomerID_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="1" TextWrapping="Wrap" />
+        <TextBox x:Name="EmployeeID_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="2" TextWrapping="Wrap" />
+        <TextBox x:Name="ShipVia_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="6" TextWrapping="Wrap" />
+        <TextBox x:Name="Freight_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="7" TextWrapping="Wrap" />
+        <TextBox x:Name="ShipName_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="8" TextWrapping="Wrap"   />
+        <TextBox x:Name="ShipAddress_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="9" TextWrapping="Wrap" />
+        <TextBox x:Name="ShipCity_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="10" TextWrapping="Wrap" />
+        <TextBox x:Name="ShipRegion_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="11" TextWrapping="Wrap" />
+        <TextBox x:Name="ShipPostalCode_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="12" TextWrapping="Wrap" />
+        <TextBox x:Name="ShipCountry_tbx" Grid.ColumnSpan="1" Grid.Column="1" Height="23" Margin="1" Grid.RowSpan="1" Grid.Row="13" TextWrapping="Wrap"   />
+
+        <Button x:Name="add_btn1" Content="Add order" Grid.Column="1" Margin="1" Grid.Row="28" Click="add_btn_Click" />
+        <Button x:Name="cancel_btn1" Content="Cancel" Grid.Column="2" Margin="1" Grid.Row="28" Click="cancel_btn_Click"/>
+        <Button Content="Select..." Grid.Column="2" Margin="1" Grid.Row="1" Grid.RowSpan="1" Click="Button_Click"/>
+        <Button Content="Ship via..." Grid.Column="2" Margin="1" Grid.Row="6" Grid.RowSpan="1"/>
+        <Button Content="Select..." Grid.Column="2" Margin="1" Grid.Row="2" Grid.RowSpan="1" Grid.ColumnSpan="1"/>
+        <DatePicker  x:Name="order_dp"  IsDropDownOpen="false" SelectedDateFormat="Short" Grid.Column="1" Margin="1" Grid.Row="3" Grid.RowSpan="1" Text="Select date" Grid.ColumnSpan="1">
+            <DatePicker.Resources>
+                <Style TargetType="{x:Type DatePickerTextBox}">
+                    <Setter Property="Text" Value= "Select date"/>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+        <DatePicker  x:Name="req_dp"  IsDropDownOpen="false" SelectedDateFormat="Short" Grid.Column="1" Margin="1" Grid.Row="4" Grid.RowSpan="1" Text="Select date" Grid.ColumnSpan="1">
+            <DatePicker.Resources>
+                <Style TargetType="{x:Type DatePickerTextBox}">
+                    <Setter Property="Text" Value= "Select date"/>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+        <DatePicker  x:Name="shipped_dp"  IsDropDownOpen="false" SelectedDateFormat="Short" Grid.Column="1" Margin="1" Grid.Row="5" Grid.RowSpan="1" Text="Select date" Grid.ColumnSpan="1">
+            <DatePicker.Resources>
+                <Style TargetType="{x:Type DatePickerTextBox}">
+                    <Setter Property="Text" Value= "Select date"/>
+                </Style>
+            </DatePicker.Resources>
+        </DatePicker>
+    </Grid>
+</Window>
